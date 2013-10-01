@@ -1,0 +1,17 @@
+Tren:
+- unde este ghiseul de informatii?
+- cat costa un bilet pana in Mayrhofen?
+- puteti sa-mi schimbati o bancnota in bani marunti ca sa pot cumpara bilet de la automat?
+- trebuie sa platim o taxa suplimentara pentru schiuri?
+- este tren direct sau trebuie sa schimbam?
+- unde este vagonul restaurant?
+- are intarziere sau este punctual?
+
+Auf dem Zug:
+- Wo ist der Auskunftschalter?
+- Wie viel ist ein zweiter Klasse Ticket(eine Fahrkarte) fuer Mayrhofen?
+- Koennen Sie eine Banknote in Muenze mir wechseln so dass ich kann ein Ticket (eine Fahrkarte) aus Fahrkartenautomat kaufen?
+- Muessen wir eine Zuschlagsgebuehr bezahlen fuer die Ski?
+- Das ist direkt Zug oder muessen wir zu umsteigen?
+- Wo ist das Restaurant-Wagen?
+- Hat der Zug Verspaetung oder ist er puenktlich?

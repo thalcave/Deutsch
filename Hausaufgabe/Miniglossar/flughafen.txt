@@ -1,0 +1,19 @@
+Aeroport:
+- la ce ora este programat zborul?
+- la ce poarta se face imbarcarea pentru Viena?
+- acesta este bagajul meu
+- cat costa micul dejun in avion?
+- este ocupat acest scaun?
+- cat mai dureaza zborul?
+- prietenul meu nu se simte bine; unde este toaleta?
+- cum ajungem din aeroport in gara centrala?
+
+Der Flughafen
+- an der welchen Stunde ist der Flug vorgesehen?
+- welche ist der Flugsteig fuer Wien?
+- Das ist mein (Reise)gepaeck
+- wie viel kostet das Fruehstueck in dem Flugzeug?
+- Ist hier noch frei? Nein, es ist besetzt.
+- Wie lange dauert der Flug?
+- Mein Freund ist krank; wo ist das Toilett?
+- Wie kommen wir von Flughafen bis Hauptbahnhof?

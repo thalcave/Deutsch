@@ -1,0 +1,10 @@
+Hauptsatz:
+- denn
+- aber
+Ich mag Bier, aber ich mag keine Wein.
+Ich fahre ab, denn ich muss lernen.
+
+Nebensatz:
+- ob
+- weil
+- dass

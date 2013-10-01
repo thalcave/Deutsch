@@ -1,0 +1,103 @@
+die Folter = tortura
+der Gegenstand = articol, item, subiect
+der Raub = atac, pradare, viol
+das Raubtier = carnivor, pradator
+
+angenehm = acceptabil, placut
+die Vorlage = template, model
+der Verlag = editura, publisher
+das Vorbild = model, idol
+die Mitarbeiter = personal, staff
+
+eigentlich = actual, in fact, proper, rather
+
+die Verfassung = das Grundgesetz = constitutie, lege fundamentala
+verfassen - verfasste - verfasst = a scrie, a compune
+das Verfassungsgericht = curtea constitutionala
+das Gesetz = lege, ordonanta, statut
+die Aenderung = schimbare, amendament, modificare
+
+
+das Wehr = armata; baraj
+das Bundeswehr = armata germana
+sich stemmen = a lupta impotriva
+
+der Bund = alianta, coalitie, confederatie
+Bundes = federal
+der Einsatz = misiune, operatiune, 
+
+
+der Stahl = otel
+die Stube = living room
+brechen - brach - gebrochen = a se prabusi, a cadea
+
+der Rueckgang = pierdere, recesiune, regresie
+
+annehmen - nahm an - angenommen = a accepta, a adopta, a asuma, a imbratisa, a presupune
+angenommen = acceptat, adoptat, presupus
+
+das Vertrauen = incredere, convingere
+
+oeffentlich = public, oficial, deschis
+
+Rein Raus = in out
+Raus = out
+
+
+das Anzeichen = semn, augur, indicatie
+das Ergebniss = rezultat
+das Werder = small island in river or lake (en: ait, eyot)
+
+die Au = campie, pajiste
+
+bereiten - bereitete - bereitet = a pregati, a cauza, 
+vorbereiten - bereitete vor- vorbereitet = a se pregati, a fi gata, a se aranja
+zubereiten - bereitete zu - zubereitet = a planui, a prepara, a termina
+zubereitet = pregatit, preparat (Ihre Lieblingsgericht - frisch zubereitet)
+
+die Ratte = sobolan
+die Regung = emotie, impuls
+die Aufregung = agitatie, excitatie, neliniste
+
+
+der Faecher = evantai
+das Gebaeude = cladire, edificiu
+
+der Stich = gaura, intepatura,
+das Kupfer = cupru
+der Kupferstich = gravura in cupru
+
+
+die Gestalt = design, figura, forma
+die Gestaltung = arta, compozitie, design, forma, geometrie
+
+
+der Zirkel = cerc
+der Kreis = cerc; regiune, district
+der Ritter = cavaler, calaret
+
+das Zubehoer - accesorii, echipament,
+
+
+der Kot = dejectie, murdarie, excrement
+der Fluegel = aripa
+das Blech = foaie de metal
+der Schutz = aparare, protectie, preventie
+das Schutzblech = der Kotfluegel = aparatoare de noroi
+
+der Korb = cos, cutie
+die Waren = marfa, bunuri
+die Socke = der Strumpf = ciorapi
+
+das Entscheiden = luare de decizie
+entscheiden - entschied - entschieden = a rezolva, a lua o decizie, a se hotari, a determina, a decide
+entschieden = determinat, decis, hotarat
+
+das Futur = die Zukunft - viitor 
+die Vergangenheit = trecut
+die Steuer = impozit, taxa, fiscalitate
+
+das Wartezimmer = anticamera, camera de asteptare
+der Vorraum = das Vorzimmer = anticamera
+das Heim = acasa; azil
+

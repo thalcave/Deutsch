@@ -1,0 +1,38 @@
+die Hauptfigur = pers principal
+der Roman = roman
+der Romanautor = der Romanschriftsteller = romancier
+die Zeitschrift = revista
+die Erzaehlung = povestire
+
+
+gleichnamig = cu acelasi nume
+arm = sarac
+ungebildet = ineducat
+mager = sarac
+wuerdig = demn
+
+
+die Streit = cearta
+die Belohnung = recompensa
+r Jugendliche = tanar
+
+die Armut = saracie
+die Verlobung = logodna
+die Oberschicht = clasa de sus
+
+ablehnen = a refuza
+
+ironischerweise = in mod ironic
+nacheinander = unul dupa altul
+zugestimmt = considerat
+angebohrt = plictisit
+gleisnerisch = ipocrit
+
+die Auster = scoici
+der Selbstmord = sinucidere
+begehen = comite
+
+indem = prin
+werfen - warg - geworfen = a arunca
+
+

@@ -1,0 +1,29 @@
+			Praesent: (eu sunt)
+Ich		bin		wir		sind
+du		bist		ihr		seid
+er/sie/es	ist		sie/Sie		sind
+
+
+			Praeteritum: (eu eram)
+Ich		war		wir		waren
+du		warst		ihr		wart
+er/sie/es	war		sie/Sie		waren
+
+
+			Perfekt: (eu am fost)
+ich	bin			wir	sind
+du	bist	gewesen		ihr	seid	gewesen
+er/sie	ist			er/sie  sind
+
+-------------------------------------------------------
+
+			Konjunktiv II (eu as fi)
+
+ich		waere		wir		waeren
+du		waerst		ihr		waeret (waert)
+er/sie/es	waere		sie/Sie		waeren
+
+
+
+			Plusquamperfekt (eu fusesem)
+

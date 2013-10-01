@@ -1,0 +1,14 @@
+In magazin:
+- ne uitam doar
+- dati-mi va rog 8 portocale
+- cat costa asta?
+- e prea scump pentru mine
+- ce marime este? (imi trebuie marimea X); aveti si alta culoare?
+
+Ich schaue mir nur.
+Geben Sie mir bitte acht Oranges.
+Wieviel kostet es?
+Das ist mir zu teuer.
+Welche Kleidergroesse haben Sie? Ich brauche Kleidergroesse M.
+Haben Sie es in einer anderen Farbe?
+

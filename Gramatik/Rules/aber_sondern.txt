@@ -1,0 +1,20 @@
+aber = dar
+sondern = dar, dimpotriva
+
+In general se foloseste "aber".
+"sondern" se foloseste cand AMBELE conditii sunt indeplinite:
+1. trebuie sa existe opozitie, contrast (Gegensatz)
+2. trebuie sa existe negatie in prop. principala (Negation)
+
+Ex:
+a) Ich mag Bier, aber nicht Wein.
+	Gegensatz = da
+	Negation = nu
+
+b) Ich mag kein Bier, sondern Wein.
+	Gegensatz = da
+	Negation = da
+
+c) Ich mag kein Bier, aber ich will etwas essen
+	Gegensatz = nu
+	Negation = da

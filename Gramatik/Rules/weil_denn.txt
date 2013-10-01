@@ -1,0 +1,12 @@
+Regel:
+"weil" : 
+	introduce Nebensatz --> verbul la sfarsit
+	mai "slab", o justificare
+"denn" : 
+	introduce Hauptsatz --> verbul normal
+	mai "tare", o justificare mai "agresiva"
+
+Gebrauch (usage):
+- "denn" nu poate fi folosit la inceputul propozitiei
+- Nebensatz mit weil poate fi inversata:
+	Weil ich ledig bin, bin ich frei (HS beginnt mit Verb)

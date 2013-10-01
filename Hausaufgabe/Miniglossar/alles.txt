@@ -1,0 +1,149 @@
+Aeroport:
+- la ce ora este programat zborul?
+- la ce poarta se face imbarcarea pentru Viena?
+- acesta este bagajul meu
+- cat costa micul dejun in avion?
+- este ocupat acest scaun?
+- cat mai dureaza zborul?
+- prietenul meu nu se simte bine; unde este toaleta?
+- cum ajungem din aeroport in gara centrala?
+
+Der Flughafen
+- an der welchen Stunde ist der Flug vorgesehen?
+- welche ist der Flugsteig fuer Wien?
+- Das ist mein (Reise)gepaeck
+- wie viel kostet das Fruehstueck in dem Flugzeug?
+- Ist hier noch frei? Nein, es ist besetzt.
+- Wie lange dauert der Flug?
+- Mein Freund ist krank; wo ist das Toilett?
+- Wie kommen wir von Flughafen bis Hauptbahnhof?
+----------------
+
+In magazin:
+- ne uitam doar
+- dati-mi va rog 8 portocale
+- cat costa asta?
+- e prea scump pentru mine
+- ce marime este? (imi trebuie marimea X); aveti si alta culoare?
+
+Ich schaue mir nur.
+Geben Sie mir bitte acht Oranges.
+Wieviel kostet es?
+Das ist mir zu teuer.
+Welche Kleidergroesse haben Sie? Ich brauche Kleidergroesse M.
+Haben Sie es in einer anderen Farbe?
+
+----------------
+
+La pensiune:
+- avem o rezervare pe numele Florin Micu
+- este prea frig in camera, am dori sa fie mai cald
+- camerele sunt comode dar nu curge apa calda
+- unde este statia de skibus?
+- recomandati-ne va rog o piscina mare
+
+An der Pension:
+- Ich habe eine Reservierung fuer Florin.
+- Es ist zu kalt in dem Zimmer; ich moechte waermer sein.
+- Das Zimmer ist gemuetlich aber heisses Wasser laeuft nicht.
+- Empfehlen Sie uns ein grosses Schwimmbad, bitte.
+- Wo ist die Skibus-Haltestelle?
+----------------
+
+Pe partie:
+- cum este zapada?: powder, packed, hard, thin, wet
+- posibil de schiat in vale
+- cand a nins ultima data?
+- partia aceasta este usoara sau grea?
+
+skipass
+ski instructor
+cross-country skiing
+
+vreau sa inchiriez skiuri
+betele/claparii sunt inclusi in pret?
+puteti sa-mi ajustati legaturile, va rog?
+Cat costa skipass-ul pt o saptamana? Pot sa iau pentru 10 zile?
+Aveti o harta cu pistele de schi?
+Cand este ultimul telescaun?
+
+Pista este inchisa.
+
+Auf der Piste (die Piste):
+- wie ist der Schnee? Der Schnee ist : pulverschnee, griffig, hart, aper, nass.
+- Abfahrt bis ins Tal moeglich
+- Wann ist der letzter Schneefall gewesen?
+- Ist diese Piste schwer oder leicht?
+
+der Skipass
+der Skilehrer
+der Langlauf
+
+Ich moechte Ski leihen.
+Sind die Stoecke/Schuhe im Preis inbegriffen?
+Koennen Sie bitte meine Bindungen einstellen?
+Was kostet ein Pass fuer einen Tag, eine Woche?
+Haben Sie ein Pistenkarte?
+Wann ist der letzte Skilift?
+
+ 	
+Diese Piste ist gesperrt.
+Es besteht Lawinengefahr.
+----------------
+
+Masina:
+- ce masina ne recomandati pentru bagajele noastre?
+- cat costa sa inchiriem o masina pentru o zi? putem sa o lasam in Innsbruck?
+- de ce acte avem nevoie pentru a inchiria o masina?
+- acesta este permisul meu de conducere
+- drumul este complicat sau simplu? care e cea mai buna ruta?
+- cum ajungem pe autostrada?
+- putem parca aici?
+
+
+Mietwagen:
+- welche Wagen empfahlen Sie fuer unser Reisegepaeck?
+- was kostet der Wagen pro Tag mieten? koennen wir die Wagen in Innsbruck abgeben?
+- welche Ausweispapiere beduerfe ich fuer eine Wagen mieten?
+- Das ist mein Fuehrerschein
+- ist der Weg einfach oder schwierig? Was ist der beste Weg?
+- Kann man hier parken?
+
+----------------
+
+
+Pe drum:
+- ma scuzati, puteti sa ne ajutati?
+- cautam pensiunea Tux; este departe? este in apropiere?
+- putem merge pe jos sau trebuie sa luam autobuzul?
+- unde gasim o farmacie?
+- ne puteti spune unde putem cumpara ceva de mancare?
+
+Entschuldigung, koennen Sie uns helfen?
+Wir suchen die Pension Tux; Wie weit ist das? ist das weit? ist das in der Nahe?
+Koennen wir zu Fuss gehen oder muessen wir mit dem Bus fahren?
+Wo finden wir eine Apotheke? (Wo findet man eine Apotheke)?
+
+koennen Sie wo finden wir etwa zu essen?
+Koennen Sie uns sagen wo man kann etwas Lebensmittel einkaufen?
+----------------
+
+Tren:
+- unde este ghiseul de informatii?
+- cat costa un bilet pana in Mayrhofen?
+- puteti sa-mi schimbati o bancnota in bani marunti ca sa pot cumpara bilet de la automat?
+- trebuie sa platim o taxa suplimentara pentru schiuri?
+- este tren direct sau trebuie sa schimbam?
+- unde este vagonul restaurant?
+- are intarziere sau este punctual?
+
+Auf dem Zug:
+- Wo ist der Auskunftschalter?
+- Wie viel ist ein Ticket(eine Fahrkarte) fuer Mayrhofen?
+- Koennen Sie eine Banknote in Muenze mir wechseln so dass ich kann ein Ticket (eine Fahrkarte) aus Fahrkartenautomat kaufen?
+- Muessen wir eine Zuschlagsgebuehr bezahlen fuer die Ski?
+- Das ist direkt Zug oder muessen wir zu umsteigen?
+- Wo ist das Restaurant-Wagen?
+- Hat der Zug Verspaetung oder ist er puenktlich?
+----------------
+
